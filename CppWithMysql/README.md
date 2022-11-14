@@ -1,9 +1,9 @@
 # 核心文件目录
-|-- inlucde/  # 存放头文件（类为主）
-|&nbsp;&nbsp;|-- SqlManager.h # SqlManager类  
-|&nbsp;&nbsp;|-- SqlManager.cpp # SqlManager类的功能方法  
-|&nbsp;&nbsp;|-- StudentInfo.h # StudentInfo类  
-|&nbsp;&nbsp;|-- StudentInfo.cpp # StudentInfo类的功能方法  
+|--inlucde/  # 存放头文件（类为主）  
+| |-- SqlManager.h # SqlManager类  
+| |-- SqlManager.cpp # SqlManager类的功能方法  
+| |-- StudentInfo.h # StudentInfo类  
+| |-- StudentInfo.cpp # StudentInfo类的功能方法  
 |-- main.cpp # 操作实例  
   
   
